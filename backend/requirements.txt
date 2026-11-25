@@ -3,3 +3,8 @@ uvicorn
 sqlalchemy
 pydantic
 python-dotenv
+requests
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
